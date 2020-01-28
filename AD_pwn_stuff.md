@@ -22,3 +22,4 @@ PowerView-3.0-tricks.ps1: https://gist.github.com/HarmJ0y/184f9822b195c52dd50c37
 
 # Tools and scripts collections
 Nishang: https://github.com/samratashok/nishang
+Invoke-CredentialPhisher: https://github.com/fox-it/Invoke-CredentialPhisher
