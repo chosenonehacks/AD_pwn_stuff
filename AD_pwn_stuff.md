@@ -16,6 +16,7 @@ Check PDF folder of this repo
 
 # Cheat-Sheets
 * PowerUpSQL-Cheat-Sheet: https://github.com/NetSPI/PowerUpSQL/wiki/PowerUpSQL-Cheat-Sheet
+* PowerView 3.0: https://github.com/HarmJ0y/CheatSheets/blob/master/PowerView.pdf
 
 # Links
 * Best website to learn about AD Security: https://adsecurity.org/
