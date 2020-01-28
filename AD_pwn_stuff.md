@@ -1,5 +1,8 @@
 # Presentations
-https://www.slideshare.net/harmj0y/i-have-the-powerview
+I have the Powerview: https://www.slideshare.net/harmj0y/i-have-the-powerview
+Red Team Apocalypse: https://www.slideshare.net/dafthack/red-team-apocalypse
+Red Team Methodology A Naked Look Jason Lang: https://www.youtube.com/watch?v=kf829-tm0VM
+
 
 # PDFs
 Check PDF folder of this repo
