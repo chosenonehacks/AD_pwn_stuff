@@ -2,6 +2,7 @@
 * I have the Powerview: https://www.slideshare.net/harmj0y/i-have-the-powerview
 * Red Team Apocalypse: https://www.slideshare.net/dafthack/red-team-apocalypse
 * Red Team Methodology A Naked Look Jason Lang: https://www.youtube.com/watch?v=kf829-tm0VM
+* Domain computers have accounts, too!: https://media.ccc.de/v/Camp2019-10207-domain_computers_have_accounts_too#t=122
 
 
 # PDFs
