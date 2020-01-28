@@ -16,3 +16,6 @@ PowerUpSQL-Cheat-Sheet: https://github.com/NetSPI/PowerUpSQL/wiki/PowerUpSQL-Che
 # Links
 Best website to learn about AD Security: https://adsecurity.org/
 PowerView-3.0-tricks.ps1: https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993#file-powerview-3-0-tricks-ps1-L114
+
+# Tools and scripts collections
+Nishang: https://github.com/samratashok/nishang
