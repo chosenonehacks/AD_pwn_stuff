@@ -5,7 +5,8 @@
 * Domain computers have accounts, too!: https://media.ccc.de/v/Camp2019-10207-domain_computers_have_accounts_too#t=122
 
 # Good reads (posts/blogs)
-Attacking Azure, Azure AD, and Introducing PowerZure: https://posts.specterops.io/attacking-azure-azure-ad-and-introducing-powerzure-ca70b330511a
+* Attacking Azure, Azure AD, and Introducing PowerZure: https://posts.specterops.io/attacking-azure-azure-ad-and-introducing-powerzure-ca70b330511a
+* Azure AD Connect for Red Teamers: https://blog.xpnsec.com/azuread-connect-for-redteam/
 
 # PDFs
 Check PDF folder of this repo
