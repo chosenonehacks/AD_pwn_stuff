@@ -4,6 +4,8 @@
 * Red Team Methodology A Naked Look Jason Lang: https://www.youtube.com/watch?v=kf829-tm0VM
 * Domain computers have accounts, too!: https://media.ccc.de/v/Camp2019-10207-domain_computers_have_accounts_too#t=122
 
+# Good reads (posts/blogs)
+Attacking Azure, Azure AD, and Introducing PowerZure: https://posts.specterops.io/attacking-azure-azure-ad-and-introducing-powerzure-ca70b330511a
 
 # PDFs
 Check PDF folder of this repo
